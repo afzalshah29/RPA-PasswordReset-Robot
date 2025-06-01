@@ -1,9 +1,9 @@
-# RPA-PasswordReset-Robot
-PASSWORD RESET AUTOMATION
 
-Tools: UiPath Studio (REFramework), UiPath Orchestrator, Microsoft Excel, Outlook, Microsoft Edge, Windows 10 VM.  
+**PASSWORD RESET AUTOMATION**
 
-Project Overview:   
+**Tools:** UiPath Studio (REFramework), UiPath Orchestrator, Microsoft Excel, Outlook, Microsoft Edge, Windows 10 VM.  
+
+**Project Overview:**  
 Designed and developed an unattended RPA solution in UiPath Studio using REFramework to automate the employee password reset process for an enterprise environment. The automation processes input Excel data to reset passwords via a web-based system and sends out temporary credentials securely via email.  
 
 **Responsibilities:**  
